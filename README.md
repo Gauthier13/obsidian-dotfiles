@@ -11,12 +11,14 @@ Ce dépôt contient ma configuration personnelle d'Obsidian, incluant thèmes, p
 
 - [Obsidian](https://obsidian.md/) installé sur votre système
 - Un vault Obsidian existant (ou créez-en un nouveau)
-- Git installé (pour cloner ce dépôt: optionnel)
+- Git installé pour cloner ce dépôt (optionnel)
 
 
 ## 💻 Installation rapide (copie directe)
 
-Vous pouvez directement copier le dossier de configuration :
+Vous pouvez directement copier le dossier de configuration et le coller ensuite:
+
+0. Révéler les fichiers cachés (`cmd + shift + .` sur mac)
 
 1. Téléchargez ce dépôt (bouton Code > Download ZIP ou clone via git)
    ```bash
