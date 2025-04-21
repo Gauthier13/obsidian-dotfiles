@@ -1,0 +1,53 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "JkcyuZ1S5JnClV89HvGAT",
+      "name": "green-1",
+      "value": "#b4caaf"
+    },
+    {
+      "id": "tSXOUUz1oqXgUFNmIiU7N",
+      "name": "green-2",
+      "value": "#569d7a"
+    },
+    {
+      "id": "fmCCz-h2PQQF-GY5Dqxx2",
+      "name": "beige-1",
+      "value": "#d3c6aa"
+    },
+    {
+      "id": "jWar48QCm9PpRmQDqKzgL",
+      "name": "green-light",
+      "value": "#849289"
+    },
+    {
+      "id": "K2RLViDDFL1AF4SVtb_jm",
+      "name": "violet-1",
+      "value": "#9e9dd2"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Bug Report",
+      "color": "jWar48QCm9PpRmQDqKzgL"
+    },
+    {
+      "path": "Coding Tips",
+      "color": "K2RLViDDFL1AF4SVtb_jm"
+    },
+    {
+      "path": "Cours",
+      "color": "tSXOUUz1oqXgUFNmIiU7N"
+    },
+    {
+      "path": "Images",
+      "color": "jWar48QCm9PpRmQDqKzgL"
+    },
+    {
+      "path": "Note Boulot",
+      "color": "fmCCz-h2PQQF-GY5Dqxx2"
+    }
+  ]
+}
